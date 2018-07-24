@@ -16,8 +16,14 @@ Command Line Interface:
 Pre-Requisite: Maven Latest Distributions
 
 1. Open Command Line Interface
-2. run following command
+2. run following command </br>
+   ```
    git clone https://github.com/anilkumarkatta204/ncr-poc.git
-3. change directory to noc-poc
+   ```
+3. change directory to noc-poc</br>
+   ```
    cd noc-poc
-4. 
+   ```
+4. run ```mvn clean``` package which would clean, compile sources and create a jar file in target file
+5. run ```java -jar .\target\ncr-poc.0.0.1-SNAPSHOT-jar-with-dependencies.jar```
+6. Follow the screen instructions :-)
