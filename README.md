@@ -27,3 +27,5 @@ Pre-Requisite: Maven Latest Distributions
 4. run ```mvn clean``` package which would clean, compile sources and create a jar file in target file
 5. run ```java -jar .\target\ncr-poc.0.0.1-SNAPSHOT-jar-with-dependencies.jar```
 6. Follow the screen instructions :-)
+
+PS: Please update Root logger option to DEBUG for detailed logging.
